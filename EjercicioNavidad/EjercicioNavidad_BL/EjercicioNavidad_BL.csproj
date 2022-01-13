@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EjercicioNavidad_DAL\EjercicioNavidad_DAL.csproj" />
+    <ProjectReference Include="..\EjercicioNavidad_Entities\EjercicioNavidad_Entities.csproj" />
+  </ItemGroup>
+
+</Project>

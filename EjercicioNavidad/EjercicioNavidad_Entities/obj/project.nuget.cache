@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lBj0xp+nzlJWHSeFzRNZsk47TGUWV69bunLnIfIevAxZ7ZZsGW8hS5a8w5Hl+nBtfpkl8XK76UFodcz1MI4lLA==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorios\\SGEMP\\EjercicioNavidad\\EjercicioNavidad_Entities\\EjercicioNavidad_Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaald\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\aaald\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aaald\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

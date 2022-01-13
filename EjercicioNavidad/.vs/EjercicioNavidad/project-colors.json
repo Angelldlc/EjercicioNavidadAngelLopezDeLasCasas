@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c71b69d-ffdc-44b5-b51a-e68fac1bed65": {
+      "ProjectGuid": "5c71b69d-ffdc-44b5-b51a-e68fac1bed65",
+      "DisplayName": "EjercicioNavidad_UI",
+      "ColorIndex": 0
+    },
+    "29cfea08-468c-4deb-86a2-60ea4ef096de": {
+      "ProjectGuid": "29cfea08-468c-4deb-86a2-60ea4ef096de",
+      "DisplayName": "EjercicioNavidad_DAL",
+      "ColorIndex": 1
+    },
+    "f4f75e85-dbd2-45f2-8c2f-68d750ecc64b": {
+      "ProjectGuid": "f4f75e85-dbd2-45f2-8c2f-68d750ecc64b",
+      "DisplayName": "EjercicioNavidad_BL",
+      "ColorIndex": 2
+    },
+    "a35a109c-2c8c-42a3-9b11-3a8ff1fca871": {
+      "ProjectGuid": "a35a109c-2c8c-42a3-9b11-3a8ff1fca871",
+      "DisplayName": "EjercicioNavidad_Entities",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

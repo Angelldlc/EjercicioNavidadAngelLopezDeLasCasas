@@ -1,0 +1,15 @@
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_BL.deps.json
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_BL.dll
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_BL.pdb
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_DAL.dll
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_Entities.dll
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_DAL.pdb
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\bin\Debug\netstandard2.0\EjercicioNavidad_Entities.pdb
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.csproj.AssemblyReference.cache
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.AssemblyInfoInputs.cache
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.AssemblyInfo.cs
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.csproj.CoreCompileInputs.cache
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.csproj.CopyComplete
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.dll
+D:\Repositorios\SGEMP\EjercicioNavidad\EjercicioNavidad_BL\obj\Debug\netstandard2.0\EjercicioNavidad_BL.pdb

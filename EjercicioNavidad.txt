@@ -1,0 +1,59 @@
+Capa BL:
+	Listados:
+		clsListadosCategoriasBL:
+			getListadoCategoriasCompletoBL() : List<clsCategoria>
+		clsListadosPlantasBL:
+			getListadoPlantasCompletoBL() : List<clsPlanta>
+			getPlantaBL(int) : clsPlanta
+			getListadoPlantasPorCategoriaBL() : List<clsPlanta>
+	Gestora: 
+		clsGestoraPlantasBL:
+			editPrecioPlantaBL(clsPlanta) : int
+
+Capa DAL:
+	Conexion:
+		clsMyConnection:
+			openConnection() : void
+			closeConnection() : void
+	Listados:
+		clsListadosCategoriasDAL:
+			getListadoCompletoCategoriasDAL() : List<clsCategoria>
+			getCategoriaDAL(int) : clsCategoria
+			- constructCategoria(SqlDataReader) : clsCategoria
+		clsListadosPlantasDAL:
+			getListadoCompletoPlantasDAL() : List<clsPlanta>
+			getPlantaDAL(int) : clsPlanta
+			getListadoPlantasPorCategoriaDAL(int) : List<clsPlanta>
+			- constructPlanta(SqlDataReader) : clsPlanta
+	Gestora:
+		clsGestoraPlantasDAL:
+			editPrecioPlantaDAL(clsPlanta) : int
+
+Capa Entidades:
+	clsPlanta: Clase que representa una planta.
+		+Id int
+		+Nombre string
+		+Descripcion string
+		+IdCategoria int
+		+Precio double
+	clsCategoria: Clase que representa la categoria a la que pertenece una planta
+		+IdCategoria int
+		+NombreCategoria string
+
+Capa UI:
+	Controller:
+		HomeController:
+			Index() : ActionResult
+			Index(int) : ActionResult
+			Edit(int) : ActionResult
+			Edit(clsPlanta) : ActionResult
+		Models:
+			ViewModels:
+				ListadoPlantasConListadoCategorias:
+					+ListaPlantas List<clsPlanta>
+					+ListaCategorias List<clsCategoria>
+					+IdCategoriaSeleccionada int
+		Views:
+			Index
+			Edit
+			Error
